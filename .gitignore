@@ -1,0 +1,24 @@
+# Ignore everything
+/*
+# Except for these
+!cmus/autosave
+!.gitignore
+!dunst/
+!fontconfig/
+!mpv/
+!mutt/
+!neofetch/
+!newsboat/
+!nvim
+!qutebrowser/
+!ranger/
+!sxiv/
+!tmux/
+!zathura/
+!zsh/
+!aliasrc
+!directories
+!shortcutrc
+!Xresources
+!xprofile
+

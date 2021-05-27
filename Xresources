@@ -1,0 +1,42 @@
+!! Transparency (0-1):
+*.alpha: 0
+
+!! Set a default font and font size as below:
+*.font: Terminus (TTF):size=14
+
+*foreground: #f0f0f0
+*background: #000000
+!! Monokai
+!! *foreground:	#f0f0f0
+!! *background:	#000000
+!! *cursorColor:	#f8f8f2
+!! *color0:	#000000
+!! *color1:	#f92672
+!! *color2:	#a6e22e
+!! *color3:	#f4bf75
+!! *color4:	#66d9ef
+!! *color5:	#ae81ff
+!! *color6:	#fd971f
+!! *color7:	#fd971f
+!! *color8:	#fd971f
+!! *color9:	#fd971f
+!! *color10:	#373832
+!! *color11:	#49483e
+!! *color12:	#a59f85
+!! *color13:	#f5f4f1
+!! *color14:	#1b1d1e
+!! *color15:	#f9f8f5
+
+!! Xmenu
+
+*xmenu.background: #000000
+*xmenu.foreground: #f0f0f0
+*xmenu.selbackground: #f0f0f0
+*xmenu.selforeground: #000000
+*xmenu.border: #f0f0f0
+*xmenu.seperator: #f0f0f0
+*xmenu.gap: 0
+*xmenu.width: 140
+*xmenu.height: 30
+*xmenu.borderWidth: 4
+*xmenu.seperatorWidth: 1
